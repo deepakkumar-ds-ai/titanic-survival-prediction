@@ -1,0 +1,17 @@
+this is requirements.txt
+
+- jupyter notebook
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+- xgboost
+- lightgbm
+- catboost
+- imbalanced-learn
+- optuna
+- shap
+- yellowbrick
+- plotly
+- bokeh
